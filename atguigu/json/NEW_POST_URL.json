@@ -1,0 +1,107 @@
+{
+    "code": 200,
+    "msg": "请求成功",
+    "result": [
+        {
+            "add_time": "1478935514",
+            "avatar": "/img/user_icon.png",
+          "comment_list": [
+            "亲,有任何货物质量问题请及时联系我哦",
+            "天猫双十二，全场8折，快来抢购吧！",
+            "理想生活，上天猫，就够了！",
+            "一年一度的剁手节来了！你今年剁手了吗？",
+            "用我们的真心，换取你们的放心！",
+            "亲，快来抢购吧"
+          ],
+            "comments": "0",
+            "figure": "/ugc/post/img/201611/14789355052991819.jpeg",
+            "is_essence": "0",
+            "is_hot": "0",
+            "is_like": "1",
+            "is_top": "0",
+            "likes": "5",
+            "post_id": "2646",
+            "saying": " @天猫双十二&圣诞节",
+            "user_id": "261219",
+            "username": "流川、枫"
+        },
+        {
+            "add_time": "1478926966",
+            "avatar": "/ugc/user/avatar/14602584403004045.png",
+          "comment_list": [
+            "亲,有任何货物质量问题请及时联系我哦",
+            "天猫双十二，全场8折，快来抢购吧！",
+            "理想生活，上天猫，就够了！",
+            "一年一度的剁手节来了！你今年剁手了吗？",
+            "用我们的真心，换取你们的放心！",
+            "亲，快来抢购吧"
+          ],
+            "comments": "0",
+            "figure": "/ugc/post/img/201611/14789268972077411.jpeg",
+            "is_essence": "0",
+            "is_hot": "0",
+            "is_like": "0",
+            "is_top": "0",
+            "likes": "0",
+            "post_id": "2645",
+            "saying": "有一张350-100的优惠券，但是感觉没有什么想买的了，毕竟吃土",
+            "user_id": "13956",
+            "username": "世界的|丶尽头"
+        },
+        {
+            "add_time": "1478924129",
+            "avatar": "/img/user_icon.png",
+          "comment_list": [
+            "亲,有任何货物质量问题请及时联系我哦",
+            "天猫双十二，全场8折，快来抢购吧！",
+            "理想生活，上天猫，就够了！",
+            "一年一度的剁手节来了！你今年剁手了吗？",
+            "用我们的真心，换取你们的放心！",
+            "亲，快来抢购吧"
+          ],
+            "comments": "0",
+            "figure": "/ugc/post/img/201611/14789239838413293.jpeg",
+            "is_essence": "0",
+            "is_hot": "0",
+            "is_like": "0",
+            "is_top": "0",
+            "likes": "0",
+            "post_id": "2644",
+            "saying": "天猫购物节。（ﾉ∀｀）σ你没钱了。然而作为一个穷银，并没有money。求小仓抽我，把我的爱(*´。｀*)传达到吧",
+            "user_id": "527824",
+            "username": "湮灭"
+        },
+        {
+            "add_time": "1478921801",
+            "avatar": "/ugc/user/avatar/14664121254125921.jpeg",
+            "comment_list": [],
+            "comments": "0",
+            "figure": "/ugc/post/img/201611/1478921704069437.jpeg",
+            "is_essence": "0",
+            "is_hot": "0",
+            "is_like": "0",
+            "is_top": "0",
+            "likes": "0",
+            "post_id": "2643",
+            "saying": "［天猫购物节］剁手党来补晒单！(๑>؂<๑）看看能不能抽到（｡ò ∀ ó｡）",
+            "user_id": "257648",
+            "username": "夏佐"
+        },
+        {
+            "add_time": "1478921533",
+            "avatar": "/img/user_icon.png",
+            "comment_list": [],
+            "comments": "0",
+            "figure": "/ugc/post/img/201611/14789215131699196.jpeg",
+            "is_essence": "0",
+            "is_hot": "0",
+            "is_like": "0",
+            "is_top": "0",
+            "likes": "1",
+            "post_id": "2642",
+            "saying": "求好运QuQ",
+            "user_id": "55746",
+            "username": "牵猫散步的鱼"
+        }
+    ]
+}
